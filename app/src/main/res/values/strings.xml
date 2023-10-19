@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pm013p2023</string>
+    <string name="apellidos">Ingrese sus Apellidos</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="nombres">Ingrese su Nombre</string>
+    <string name="Respuesta">Registro ingresado con exito!</string>
+    <string name="ErrorResp">Error no se pudo ingresar</string>
+</resources>
